@@ -1,0 +1,7 @@
+C:\Users\talita.silva\source\repos\AprendendoCSharp\8-Condicionaisdois\obj\Debug\8-Condicionaisdois.csproj.AssemblyReference.cache
+C:\Users\talita.silva\source\repos\AprendendoCSharp\8-Condicionaisdois\obj\Debug\8-Condicionaisdois.csproj.CoreCompileInputs.cache
+C:\Users\talita.silva\source\repos\AprendendoCSharp\8-Condicionaisdois\bin\Debug\8-Condicionaisdois.exe.config
+C:\Users\talita.silva\source\repos\AprendendoCSharp\8-Condicionaisdois\bin\Debug\8-Condicionaisdois.exe
+C:\Users\talita.silva\source\repos\AprendendoCSharp\8-Condicionaisdois\bin\Debug\8-Condicionaisdois.pdb
+C:\Users\talita.silva\source\repos\AprendendoCSharp\8-Condicionaisdois\obj\Debug\8-Condicionaisdois.exe
+C:\Users\talita.silva\source\repos\AprendendoCSharp\8-Condicionaisdois\obj\Debug\8-Condicionaisdois.pdb
