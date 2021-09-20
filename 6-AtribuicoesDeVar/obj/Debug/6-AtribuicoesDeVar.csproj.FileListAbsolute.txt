@@ -1,0 +1,6 @@
+C:\Users\talita.silva\source\repos\AprendendoCSharp\6-AtribuicoesDeVar\obj\Debug\6-AtribuicoesDeVar.csproj.CoreCompileInputs.cache
+C:\Users\talita.silva\source\repos\AprendendoCSharp\6-AtribuicoesDeVar\bin\Debug\6-AtribuicoesDeVar.exe.config
+C:\Users\talita.silva\source\repos\AprendendoCSharp\6-AtribuicoesDeVar\bin\Debug\6-AtribuicoesDeVar.exe
+C:\Users\talita.silva\source\repos\AprendendoCSharp\6-AtribuicoesDeVar\bin\Debug\6-AtribuicoesDeVar.pdb
+C:\Users\talita.silva\source\repos\AprendendoCSharp\6-AtribuicoesDeVar\obj\Debug\6-AtribuicoesDeVar.exe
+C:\Users\talita.silva\source\repos\AprendendoCSharp\6-AtribuicoesDeVar\obj\Debug\6-AtribuicoesDeVar.pdb
